@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.wallet-container {
+  margin: 2rem 0;
+}
+
+button {
+  background: #512da8;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #311b92;
+}
